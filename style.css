@@ -2,6 +2,8 @@ body {
     box-sizing: border-box;
     color: aliceblue;
     border-radius: 45px;
+
+    background-color: black;
 }
 
 * {
